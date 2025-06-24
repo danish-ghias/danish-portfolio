@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: My Story and Hobbies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### A Short Story About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hi, I'm Danish Ghias.
+I was born in Pakistan but moved to the U.S. when I was just 2, which means I grew up navigating two cultures, two languages, and much more. 
 
-What else do you need?
+I grew up in Shelby Township, Michigan, where I spent 16 years of my life before heading off to MSU.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Hobbies/Interests
+Here are some of my hobbies/interests.
+
+- Playing Soccer/Basketball/Pickleball With Friends
+- Coding Small Projects
+- Watching Sports
+- Traveling
+- Playing Videogames
+
+
