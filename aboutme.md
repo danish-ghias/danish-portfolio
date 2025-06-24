@@ -12,7 +12,9 @@ I grew up in Shelby Township, Michigan, where I spent 16 years of my life before
 
 
 ### Hobbies/Interests
-<img src="assets/soccer.jpg" alt="Hobbies Icon" width="120" style="margin-bottom: 10px;" />
+<img src="/soccer.jpg" alt="Hobbies Icon" width="120" style="margin-bottom: 10px;" />
+
+
 
 
 Here are some of my hobbies/interests.
